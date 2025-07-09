@@ -1,0 +1,9 @@
+name = "236th Jump Corps";
+author = "Hound";
+picture = "236th_Patches\textures\475th_modpicturelogo.paa";
+logoSmall = "236th_Patches\textures\475th_modlogosmall.paa";
+logo = "236th_Patches\textures\475th_modlogo.paa";
+logoOver = "236th_Patches\textures\475th_modlogo.paa";
+description = "A small retexture mod, based around a previous unit concept for the 236th Jump Corps originally created by myself, Hound so yea suck it were doing it again.";
+hideName = 0;
+hidePicture = 0;
